@@ -1,4 +1,4 @@
-# WebAPI_Locadora
+# WebAPI_Locadora com EntityFrameworkCore.InMemory
 
 # CLIENTES
 
